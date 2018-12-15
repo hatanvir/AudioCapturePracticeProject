@@ -11,4 +11,4 @@ This is a simple practice project for audio recording.
  
 <b>App demo</b>
 
-<IMG SRC="https://github.com/hatanvir/AudioCapturePracticeProject/blob/master/audioRecording.gif">
+<IMG SRC="https://github.com/hatanvir/AudioCapturePracticeProject/blob/master/appdemo.gif">
